@@ -78,3 +78,4 @@ lesson commit 77 - Wed May  6 23:09:51 MSK 2026
 lesson commit 78 - Wed May  6 23:09:51 MSK 2026
 lesson commit 79 - Wed May  6 23:09:51 MSK 2026
 lesson commit 80 - Wed May  6 23:09:51 MSK 2026
+lesson commit 81 - Wed May  6 23:09:51 MSK 2026
