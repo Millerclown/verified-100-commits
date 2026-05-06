@@ -70,3 +70,4 @@ lesson commit 69 - Wed May  6 23:09:51 MSK 2026
 lesson commit 70 - Wed May  6 23:09:51 MSK 2026
 lesson commit 71 - Wed May  6 23:09:51 MSK 2026
 lesson commit 72 - Wed May  6 23:09:51 MSK 2026
+lesson commit 73 - Wed May  6 23:09:51 MSK 2026
